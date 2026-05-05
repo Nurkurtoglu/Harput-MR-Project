@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: HarputLibrary
+  m_EditorClassIdentifier: Unity.XR.ARSubsystems::UnityEngine.XR.ARSubsystems.XRReferenceImageLibrary
+  m_GuidLow: 5067088311382984098
+  m_GuidHigh: 11628335534549198979
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5609606117882891775
+      m_GuidHigh: 9346089751253775772
+    m_SerializedTextureGuid:
+      m_GuidLow: 1203632381065633027
+      m_GuidHigh: 2910919685211011913
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: QuizTrigger
+    m_Texture: {fileID: 0}

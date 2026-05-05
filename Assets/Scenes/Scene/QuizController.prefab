@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6544827864777403845
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7910287501201567522}
+  - component: {fileID: 2445670284090739028}
+  m_Layer: 0
+  m_Name: QuizController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7910287501201567522
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6544827864777403845}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -417.21768, y: -0, z: 6818.237}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2445670284090739028
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6544827864777403845}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8ba035c69a718f4f8d112ebc3e6006d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::QuizManager
+  questions:
+  - questionText: "Harput'un en bilinen simgelerinden biri olan Harput Kalesi'nin
+      yap\u0131m\u0131 s\u0131ras\u0131nda, kurakl\u0131k nedeniyle harc\u0131nda
+      su yerine ba\u015Fka bir s\u0131v\u0131 kullan\u0131ld\u0131\u011F\u0131 efsanesi
+      g\xFCn\xFCm\xFCze kadar ula\u015Fm\u0131\u015Ft\u0131r. Bu efsaneye dayanarak
+      Harput Kalesi halk aras\u0131nda hangi isimle de an\u0131lmaktad\u0131r?"
+    answers:
+    - "S\xFCt Kalesi"
+    - Bulut Kalesi
+    - Su Kalesi
+    - Beyaz Kale
+    correctAnswerIndex: 0
+  - questionText: "Harput'ta bulunan ve \u0130talya'daki \xFCnl\xFC Pisa Kulesi'nden
+      daha e\u011Fik oldu\u011Fu tescillenen tarihi yap\u0131 hangisidir?"
+    answers:
+    - "Arap Baba T\xFCrbesi"
+    - "Kur\u015Funlu Camii"
+    - Meryem Ana Kilisesi
+    - Harput Ulu Camii Minaresi
+    correctAnswerIndex: 3
+  - questionText: "Harput'ta yer alan, jeolojik yap\u0131s\u0131 nedeniyle yaz aylar\u0131nda
+      i\xE7i buz gibi serin, k\u0131\u015F aylar\u0131nda ise nispeten s\u0131cak
+      olan do\u011Fa harikas\u0131 yerin ad\u0131 nedir?"
+    answers:
+    - "Damlata\u015F Ma\u011Faras\u0131"
+    - "Buzluk Ma\u011Faras\u0131"
+    - "Karain Ma\u011Faras\u0131"
+    - "\u0130nsuyu Ma\u011Faras\u0131"
+    correctAnswerIndex: 1
+  - questionText: "Harput'ta yer alan, jeolojik yap\u0131s\u0131 nedeniyle yaz aylar\u0131nda
+      i\xE7i buz gibi serin, k\u0131\u015F aylar\u0131nda ise nispeten s\u0131cak
+      olan do\u011Fa harikas\u0131 yerin ad\u0131 nedir?"
+    answers:
+    - "Damlata\u015F Ma\u011Faras\u0131"
+    - "Buzluk Ma\u011Faras\u0131"
+    - "Karain Ma\u011Faras\u0131"
+    - "\u0130nsuyu Ma\u011Faras\u0131"
+    correctAnswerIndex: 1
+  - questionText: "Harput Kalesi'nin giri\u015Finde \u015Fahlanm\u0131\u015F at \xFCzerinde
+      heykeli bulunan ve Harput'u fethederek \xF6nemli bir T\xFCrk yurdu haline getiren
+      \xFCnl\xFC komutan kimdir?"
+    answers:
+    - Alpaarsaln
+    - Balak Gazi
+    - Battal Gazi
+    - Selahaddin Eyyubi
+    correctAnswerIndex: 1
+  quizCanvas: {fileID: 0}
+  questionTextUI: {fileID: 0}
+  scoreTextUI: {fileID: 0}
+  answerButtons:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  imageManager: {fileID: 0}
