@@ -40,7 +40,5 @@ Aşağıda, APK telefona yüklendikten sonra uygulamanın nasıl test edileceği
   5. Tüm sorular bittiğinde butonlar gizlenir ve ekranda nihai skorun yazılı olduğu *"Tebrikler! Yarışmayı Tamamladın."* bitiş ekranı belirir.
 
 ---
-<img width="2816" height="1536" alt="Gemini_Generated_Image_pg7tmhpg7tmhpg7t" src="https://github.com/user-attachments/assets/abc7db2b-31f0-42f5-855e-db059d824709" />
-<img width="1600" height="1200" alt="harputkabartma" src="https://github.com/user-attachments/assets/fd934330-fe50-4948-a43c-f8ca5f56f051" />
-<img width="500" height="327" alt="HarputEski" src="https://github.com/user-attachments/assets/d7016401-da41-4c28-9d42-46bc484fa927" />
-<img width="900" height="450" alt="ArtukluSikke" src="https://github.com/user-attachments/assets/814a8670-db4a-442a-ab1c-1c2458782a5a" />
+
+
