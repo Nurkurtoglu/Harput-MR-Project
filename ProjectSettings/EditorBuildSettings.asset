@@ -8,9 +8,15 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 4755b35b590504809a7525fd2109c2e2
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Scene/quizScene.unity
     guid: 1ac91ee1e2a44984081589ee663cb9df
+  - enabled: 1
+    path: Assets/Scenes/Scene/TreasureHuntScene.unity
+    guid: 0462107a83e809a47b010ec371f2db4e
+  - enabled: 0
+    path: Assets/Scenes/Scene/Harput360Experience.unity
+    guid: e16e742d1ae30d04a8d73463b63ec915
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6ee72d15cf39dd748a13eac57397b9af, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 0465d33c6aee55f44b0237db8b0e0259, type: 2}

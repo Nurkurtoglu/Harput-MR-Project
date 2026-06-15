@@ -1,0 +1,41 @@
+
+Harput Tarih Yolculuğu (YMGK) Paylaş
+Yapılacaklar 0
+Yapılıyor 0
+Tamamlanan Birinci Modül 5
+Tamamlanan İkinci Modül 4
+Tamamlanan Üçüncü Modül 7
+Bilgi Yarışması Modülü
+Geliştirildi
+5–10 soruluk quiz sistemi
+oluşturuldu
+Doğru/yanlış kontrol
+mekanizması geliştirildi
+Unity UI ile kullanıcı arayüzü
+tamamlandı
+Test edildi ve çalışır hale
+getirildi
+Hedef mekan seçimi (Harput
+Kalesi)
+İlk obje tanıma testleri
+AR Hazine Avı – Temel Kurulum
+Test edildi.
+15.06.2026 17:17 Harput Tarih Yolculuğu (YMGK) | Trello
+https://trello.com/b/BSKrZJ4K/harput-tarih-yolculugu-ymgk 1/2
+
+Tamamlanan Dördüncü Modül 2
+Hedef mekan seçimi (Harput
+Kalesi)
+Harput’un panoramik
+görsellerinin bulunması
+360° Görsellerin Toplanması
+Alternatif: yapay 360° içerik
+oluşturma
+360° Tarih Deneyimi – Sahne
+Kurulumu
+Görsellerin optimize edilmesi
+Unity 360° Ortam Geliştirme
+Harput Kalesi Simülasyonu
+Zaman Tüneli Özelliği
+15.06.2026 17:17 Harput Tarih Yolculuğu (YMGK) | Trello
+https://trello.com/b/BSKrZJ4K/harput-tarih-yolculugu-ymgk 2/2
